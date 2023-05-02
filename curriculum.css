@@ -6,16 +6,29 @@ body{
     font-family:Verdana;
 }
 #main{
+    background-color: white;
+}
+#primeiraPagina{
+    margin:30px auto 30px auto;
     display:flex;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    width: 70%; /*Pasa salvar em PDF mude este valor para 85%*/
+    padding:100px 0;
+}
+#segundaPagina{
+    margin:30px auto 30px auto;
+    width: 70%; /*Pasa salvar em PDF mude este valor para 85%*/
+    padding:0 100px;
 }
 #esquerda{
     margin-top: 20px;
     width:30%;
     text-align: center;
+    padding-right:5px;
 }
 h1{
+    margin-right: 10px;
+    text-align: right;
+    font-size: 30px;
     color: #222;
 }
 h2{
@@ -25,33 +38,58 @@ p{
     font-size: 140%;
 }
 .perfil{
-    max-width: 70%;
+    max-width: 90%;
     border-radius:100%;
 }
 .icone{
-    height:7%;
+    height:4%;
 }
 a{
     text-decoration:none;
     color:black;
 }
 #linha{
-    width:3.5%;
+    width:5%;
     min-height: 100%;
     background-image:linear-gradient(#0494EB,#00ECC8);  
-    
+    margin:0 20px;
 }
 #direita{
+    width:100%;
     margin-top: 20px;
-    padding: 0 1% 0 1%;
+    /*padding: 0 1% 0 1%;*/
 }
 .espaco{
     display: flex;
     justify-content: space-between;
 }
-span{
-    font-size:large;
-}
 #cursos span{
     margin-bottom: 20px;
+}
+.port{
+    display: flex;
+    margin-bottom: 5%;
+}
+.borda{
+    background: linear-gradient(#0494EB,#00ECC8);
+    border-radius: 10px;
+    width: 40%;
+    margin-right: 7%;
+    padding: 5px;
+}
+.repositorio{
+    background-color: white;
+    border-radius: 10px;
+    padding:5px;
+    height: 95%;
+    
+}
+.repositorio h3{
+    margin-top: 5px;
+}
+.repositorio p{
+    font-size: medium;
+}
+.resumo{
+    text-align: justify;
 }
