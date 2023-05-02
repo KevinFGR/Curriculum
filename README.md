@@ -6,8 +6,10 @@ Versão HTML do meu currículo
 </div>
 
 ## Imagem ilustrativa do site
-![imagem 1](https://user-images.githubusercontent.com/109561598/229207646-63ea5f09-46df-4bcd-8718-720ffcc03fae.png)
-![imagem 2](https://user-images.githubusercontent.com/109561598/229207673-c3f2aff3-b4d5-412a-b6ff-a8416239a594.png)
+
+<img src="https://user-images.githubusercontent.com/109561598/235568618-6aaf3b39-8885-4184-9612-05274fdc0cef.png" alt="cv p1" />
+<img src="https://user-images.githubusercontent.com/109561598/235568637-5da3d65f-7b20-473e-baba-b2ec17c84e20.png" alt="cv p2"/>
+
 
 ## Link do currículo original
 
