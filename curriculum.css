@@ -11,12 +11,12 @@ body{
 #primeiraPagina{
     margin:30px auto 30px auto;
     display:flex;
-    width: 70%; /*Pasa salvar em PDF mude este valor para 85%*/
+    width: 85%; /*Pasa salvar em PDF mude este valor de 70% para 85%*/
     padding:100px 0;
 }
 #segundaPagina{
     margin:30px auto 30px auto;
-    width: 70%; /*Pasa salvar em PDF mude este valor para 85%*/
+    width: 85%; /*Pasa salvar em PDF mude este valor de 70% para 85%*/
     padding:0 100px;
 }
 #esquerda{
@@ -57,39 +57,29 @@ a{
 #direita{
     width:100%;
     margin-top: 20px;
-    /*padding: 0 1% 0 1%;*/
 }
 .espaco{
     display: flex;
     justify-content: space-between;
 }
-#cursos span{
+.curPort span{
     margin-bottom: 20px;
 }
-.port{
-    display: flex;
-    margin-bottom: 5%;
+.tecnologias{
+    display:flex;
+    flex-wrap: wrap;
 }
-.borda{
-    background: linear-gradient(#0494EB,#00ECC8);
-    border-radius: 10px;
-    width: 40%;
-    margin-right: 7%;
-    padding: 5px;
-}
-.repositorio{
+.tec{
     background-color: white;
     border-radius: 10px;
     padding:5px;
     height: 95%;
-    
+    border:#0494EB solid 2px;
+    margin:2px;
 }
-.repositorio h3{
-    margin-top: 5px;
-}
-.repositorio p{
-    font-size: medium;
-}
-.resumo{
+.just{
     text-align: justify;
+}
+.ml{
+    margin-left:10px;
 }
