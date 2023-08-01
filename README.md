@@ -7,9 +7,8 @@ Versão HTML do meu currículo
 
 ## Imagem ilustrativa do site
 
-<img src="https://user-images.githubusercontent.com/109561598/235568618-6aaf3b39-8885-4184-9612-05274fdc0cef.png" alt="cv p1" />
-<img src="https://user-images.githubusercontent.com/109561598/235568637-5da3d65f-7b20-473e-baba-b2ec17c84e20.png" alt="cv p2"/>
-
+<img src="https://github.com/KevinFGR/Curriculum/assets/109561598/7683db8e-5eed-404f-92b9-5b753cba2ac2" alt="P.1"> <br />
+<img src="https://github.com/KevinFGR/Curriculum/assets/109561598/4e426b20-fd7d-48f2-aa8f-8d61ed71288c" alt="P.2">
 
 ## Link do currículo original
 
