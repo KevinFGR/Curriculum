@@ -62,12 +62,16 @@ a{
     display: flex;
     justify-content: space-between;
 }
-.curPort span{
-    margin-bottom: 20px;
+.espaco span{
+    min-width: 120px;
+    text-align: justify;
 }
 .tecnologias{
     display:flex;
     flex-wrap: wrap;
+}
+.cursos {
+    margin-bottom: 20px;
 }
 .tec{
     background-color: white;
@@ -79,6 +83,9 @@ a{
 }
 .just{
     text-align: justify;
+}
+.mb{
+    margin-bottom:10px ;
 }
 .ml{
     margin-left:10px;
